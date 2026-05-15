@@ -1,0 +1,13 @@
+{
+  "name": "blockrun-ai",
+  "displayName": "Blockrun",
+  "version": "1.0.0",
+  "description": "blockrun.ai is a prediction market data host focused on Polymarket and Kalshi. It serves agents that need to analyze trader performance, browse available markets, inspect market price history, or compare cohort-level statistics. Its primary strength is wallet analytics across multiple time windows (1d/7d/30d/all-time) and cross-market coverage spanning both Polymarket and Kalshi. It does not support order placement, live order book depth, or non-prediction-market on-chain data.",
+  "author": {
+    "name": "x402gle",
+    "url": "https://x402gle.com"
+  },
+  "skills": [
+    "./skills/blockrun-ai"
+  ]
+}

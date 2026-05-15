@@ -1,0 +1,14 @@
+{
+  "name": "blockrun-ai",
+  "displayName": "Blockrun",
+  "owner": {
+    "name": "x402gle",
+    "url": "https://x402gle.com"
+  },
+  "plugins": [
+    {
+      "name": "blockrun-ai",
+      "source": "./plugins/blockrun-ai"
+    }
+  ]
+}
