@@ -29,6 +29,12 @@
       "source": "./plugins/dexter-solana-wallet-risk-briefing-nmgn",
       "description": "Pulls a Solana wallet's recent activity, trust signals, and token exposure to produce a briefing flagging suspicious patterns.",
       "version": "1.0.0"
+    },
+    {
+      "name": "dexter-solana-wallet-risk-briefing-osy6",
+      "source": "./plugins/dexter-solana-wallet-risk-briefing-osy6",
+      "description": "Pulls a Solana wallet's recent activity, scores its trust, inspects held tokens, and produces a briefing flagging suspicious patterns.",
+      "version": "1.0.0"
     }
   ]
 }
