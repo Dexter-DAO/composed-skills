@@ -17,6 +17,12 @@
       "source": "./plugins/branchm-v2-test-skill",
       "description": "",
       "version": "1.0.0"
+    },
+    {
+      "name": "dexter-solana-wallet-risk-briefing-66jb",
+      "source": "./plugins/dexter-solana-wallet-risk-briefing-66jb",
+      "description": "Pulls a Solana wallet's recent on-chain activity, scores its trust signals, screens interacted tokens, and delivers a briefing flagging suspicious patterns.",
+      "version": "1.0.0"
     }
   ]
 }
