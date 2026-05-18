@@ -35,6 +35,12 @@
       "source": "./plugins/dexter-solana-wallet-risk-briefing-osy6",
       "description": "Pulls a Solana wallet's recent activity, scores its trust, inspects held tokens, and produces a briefing flagging suspicious patterns.",
       "version": "1.0.0"
+    },
+    {
+      "name": "dexter-solana-wallet-risk-briefing-p3pf",
+      "source": "./plugins/dexter-solana-wallet-risk-briefing-p3pf",
+      "description": "Pulls a Solana wallet's recent activity, trust score, and token exposure, then flags suspicious patterns in a structured risk briefing.",
+      "version": "1.0.0"
     }
   ]
 }
